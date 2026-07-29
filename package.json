@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "dev": "node \"%CD%\\node_modules\\vite\\bin\\vite.js\"",
-    "build": "node \"%CD%\\node_modules\\vite\\bin\\vite.js\" build",
-    "preview": "node \"%CD%\\node_modules\\vite\\bin\\vite.js\" preview"
+    "dev": "node scripts/vite.mjs",
+    "build": "node scripts/vite.mjs build",
+    "preview": "node scripts/vite.mjs preview"
   },
   "dependencies": {
     "framer-motion": "^12.23.12",
