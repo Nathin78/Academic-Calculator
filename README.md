@@ -305,13 +305,6 @@ git push origin feature/new-feature
 ## 📜 License
 
 This project is open-source and available for educational and personal use.
-
-## 👨‍💻 Developer
-
-**Nathin**
-
-GitHub: [Nathin78](https://github.com/Nathin78)
-
 ---
 
 ⭐ If you find this project useful, consider giving the repository a star!
