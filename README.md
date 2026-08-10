@@ -191,50 +191,6 @@ npm run build
 ```bash
 npm run preview
 ```
-
-## 🧮 Calculation Examples
-
-### 12th Cut-off
-
-For:
-
-```text
-Mathematics = 90
-Physics     = 85
-Chemistry   = 88
-```
-
-Calculation:
-
-```text
-90 + (85 / 2) + (88 / 2)
-= 176.50
-```
-
-### SGPA
-
-Example:
-
-```text
-Mathematics → 4 Credits × 9 Grade Point
-Physics     → 3 Credits × 8 Grade Point
-Programming → 4 Credits × 10 Grade Point
-```
-
-The application calculates the weighted average based on credits.
-
-### CGPA
-
-Example:
-
-```text
-Semester 1 → 8.2
-Semester 2 → 8.7
-Semester 3 → 9.1
-```
-
-The application calculates the average SGPA to produce the CGPA.
-
 ## 💾 Calculation History
 
 The application stores previous calculations locally in the browser, allowing users to view their previous:
