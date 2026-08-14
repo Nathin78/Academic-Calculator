@@ -114,44 +114,6 @@ SGPA = Σ(Credit × Grade Point) / Σ(Credits)
 
 The project uses React 19, Vite, Tailwind CSS, Framer Motion, React Router, jsPDF, html2canvas, and other frontend libraries.
 
-## 📁 Project Structure
-
-```text
-Academic-Calculator/
-│
-├── src/
-│   ├── components/
-│   │   ├── Navbar
-│   │   ├── Sidebar
-│   │   ├── Footer
-│   │   ├── ResultCard
-│   │   ├── ProgressBar
-│   │   ├── CircularProgress
-│   │   └── CalculationHistory
-│   │
-│   ├── pages/
-│   │   ├── Home
-│   │   ├── CutoffCalculator
-│   │   ├── SgpaCalculator
-│   │   ├── CgpaCalculator
-│   │   └── About
-│   │
-│   ├── utils/
-│   │   ├── cutoffFormula
-│   │   ├── sgpaFormula
-│   │   ├── cgpaFormula
-│   │   ├── validation
-│   │   ├── performance
-│   │   ├── pdfGenerator
-│   │   └── calculationHistory
-│   │
-│   └── App.jsx
-│
-├── public/
-├── package.json
-└── README.md
-```
-
 ## ⚙️ Installation
 
 ### 1. Clone the repository
