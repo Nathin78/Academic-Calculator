@@ -166,32 +166,6 @@ Possible future improvements include:
 * [ ] Progressive Web App (PWA) support
 * [ ] Multi-language support
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository.
-2. Create a new branch.
-
-```bash
-git checkout -b feature/new-feature
-```
-
-3. Make your changes.
-4. Commit your changes.
-
-```bash
-git commit -m "Add new feature"
-```
-
-5. Push the branch.
-
-```bash
-git push origin feature/new-feature
-```
-
-6. Create a Pull Request.
-
 ## 📜 License
 
 This project is open-source and available for educational and personal use.
