@@ -114,34 +114,6 @@ SGPA = Σ(Credit × Grade Point) / Σ(Credits)
 
 The project uses React 19, Vite, Tailwind CSS, Framer Motion, React Router, jsPDF, html2canvas, and other frontend libraries.
 
-## ⚙️ Installation
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/Nathin78/Academic-Calculator.git
-```
-
-### 2. Navigate to the project
-
-```bash
-cd Academic-Calculator
-```
-
-### 3. Install dependencies
-
-```bash
-npm install
-```
-
-### 4. Start the development server
-
-```bash
-npm run dev
-```
-
-The application will be available at the local development URL shown in your terminal.
-
 ## 🏗️ Build for Production
 
 ```bash
