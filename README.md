@@ -142,7 +142,6 @@ Users can manage their results through:
 * 📋 Copy
 * 📥 Download PDF
 * 📤 Share
-* 🖨️ Print
 
 ## 🎯 Project Purpose
 
