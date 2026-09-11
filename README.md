@@ -165,8 +165,6 @@ Possible future improvements include:
 * [ ] Progressive Web App (PWA) support
 * [ ] Multi-language support
 
-## 📜 Licens
-
 ⭐ If you find this project useful, consider giving the repositor
 
 **Academic Calculator — Making academic calculations simple, fast, and accessible.**
