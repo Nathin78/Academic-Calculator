@@ -166,7 +166,7 @@ Possible future improvements include:
 * [ ] Multi-language support
 
 ## 📜 License
-This project is open-sourc
+This projec
 
 ⭐ If you find this project useful, consider giving the repositor
 
