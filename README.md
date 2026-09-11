@@ -167,8 +167,7 @@ Possible future improvements include:
 
 ## 📜 License
 
-This project is open-source and available for educational and personal use.
----
+This project is open-source and available for educational and personal use
 
 ⭐ If you find this project useful, consider giving the repository a star!
 
