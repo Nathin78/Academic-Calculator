@@ -166,8 +166,7 @@ Possible future improvements include:
 * [ ] Multi-language support
 
 ## 📜 License
-
-This project is open-source and available for educati
+This project is open-source and available fo
 
 ⭐ If you find this project useful, consider giving the repository a star!
 
