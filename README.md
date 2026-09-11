@@ -165,8 +165,7 @@ Possible future improvements include:
 * [ ] Progressive Web App (PWA) support
 * [ ] Multi-language support
 
-## 📜 License
-This projec
+## 📜 Licens
 
 ⭐ If you find this project useful, consider giving the repositor
 
