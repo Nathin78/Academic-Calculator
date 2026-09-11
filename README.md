@@ -166,7 +166,7 @@ Possible future improvements include:
 * [ ] Multi-language support
 
 ## 📜 License
-This project is open-source and avai
+This project is open-sourc
 
 ⭐ If you find this project useful, consider giving the repositor
 
